@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel. A developer interested in web topics, flutter, linux and open source.
+I'm Daniel, a developer interested in web technologies 🌐, flutter 📱, linux 🐧 and open source.  
 Feel free to check out my repositories or reach out to me:
 
 | 🌐 | [daniel-vera-g.github.io/](https://daniel-vera-g.github.io/)                                  |
