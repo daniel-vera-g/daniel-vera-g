@@ -17,4 +17,4 @@ Feel free to check out my repositories or reach out to me:
 - ⚡ Fun fact: That guy in the picture is me 👨‍💻
 
 
-![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=daniel-vera-g&count_private=true&show_icons=true&theme=gruvbox)
+<!-- TODO add better gh-stats in future -->
