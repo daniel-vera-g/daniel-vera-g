@@ -6,7 +6,6 @@ Feel free to check out my repositories or reach out to me:
 | 🌐 | [daniel-vera-g.github.io/](https://daniel-vera-g.github.io/)                                  |
 |---|-----------------------------------------------------------------------------------------------|
 | 💼 | [Linkedin: Daniel Vera Gilliard](https://www.linkedin.com/in/daniel-vera-gilliard-b87568146/) |
-| 📮 | [danielveragi@gmail.com](mailto:danielveragi@gmail.com)                                       |
 | 🐦 | [Twitter: @DVG3012](https://twitter.com/DVG3012)                                              |
 | 🔑 | [Keybase: @dvg](https://keybase.io/dvg)                                                       |
 | ✍️ | [dev.to: @dvg3012](https://dev.to/dvg3012)                                                    |
