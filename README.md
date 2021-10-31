@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel, a developer interested in web technologies 🌐, flutter 📱, linux 🐧 and open source.  
+I'm Daniel, a developer interested in web technologies 🌐, linux 🐧 and open source.  
 Feel free to check out my repositories or reach out to me:
 
 | 🌐 | [daniel-vera-g.github.io/](https://daniel-vera-g.github.io/)                                  |
@@ -11,7 +11,7 @@ Feel free to check out my repositories or reach out to me:
 | ✍️ | [dev.to: @dvg3012](https://dev.to/dvg3012)                                                    |
 
 - 🔭 I’m currently working on different projects, just checkout my repos 🤖
-- 🌱 I’m currently learning flutter, dart, linux, vim, gRPC, APIs, ....
+- 🌱 I’m currently learning flutter, go, linux, vim, gRPC, APIs, Kubernetes, ....
 - 💬 Ask me about linux, web dev, ...
 - ⚡ Fun fact: That guy in the picture is me 👨‍💻
 
